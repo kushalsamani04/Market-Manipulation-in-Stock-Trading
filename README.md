@@ -32,6 +32,3 @@ This project analyzes **Tesla stock price anomalies**, identifying potential **P
 ✔️ **Tableau Dashboard** allows **real-time filtering & anomaly visualization**.  
 
 ---
-
-## 📊 Tableau Dashboard  
-🔗 **View the interactive dashboard here:** [https://public.tableau.com/app/profile/kushal.samani/viz/Book1_17421589206310/Dashboard1?publish=yes](url)
