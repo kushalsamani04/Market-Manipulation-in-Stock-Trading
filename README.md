@@ -35,11 +35,3 @@ This project analyzes **Tesla stock price anomalies**, identifying potential **P
 
 ## 📊 Tableau Dashboard  
 🔗 **View the interactive dashboard here:** [https://public.tableau.com/app/profile/kushal.samani/viz/Book1_17421589206310/Dashboard1?publish=yes](url)
-
-
-## 💻 How to Run This Project  
-
-### **1️⃣ Clone the Repository**
-```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/Tesla-Stock-Anomaly-Detection.git
-cd Tesla-Stock-Anomaly-Detection
